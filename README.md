@@ -1,1 +1,1 @@
-# -Solidity-
+# WTF-Solidity
